@@ -14,6 +14,7 @@
     "three": "^0.136.0"
   },
   "devDependencies": {
+    "@honkhonk/vite-plugin-svgr": "^1.1.0",
     "@vitejs/plugin-react": "^1.0.7",
     "autoprefixer": "^10.4.1",
     "postcss": "^8.4.5",
