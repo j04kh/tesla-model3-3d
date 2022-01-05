@@ -1,5 +1,6 @@
 {
   "name": "tesla-model3-3d",
+  "homepage": "tesla-model3-3d.vercel.app",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
