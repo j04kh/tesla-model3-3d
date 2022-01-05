@@ -2,12 +2,17 @@
   {
     "id": "0",
     "title": "Range",
-    "desc": "405 mi (est.)"
+    "desc": "396 mi (EPA est.)"
+  },
+  {
+    "id": "1",
+    "title": "1/4 Mile",
+    "desc": "9.23@155 mph trap speed"
   },
   {
     "id": "2",
     "title": "Peak Power",
-    "desc": "670 hp"
+    "desc": "1,020 hp"
   },
   {
     "id": "3",
@@ -21,7 +26,7 @@
   },
   {
     "id": "5",
-    "title": "Acceleration",
-    "desc": "3.1 s 0-60 mph"
+    "title": "Weight",
+    "desc": "4,766 lbs"
   }
 ]

@@ -1,25 +1,23 @@
 [
   {
     "id": "0",
-    "title": "Acceleration",
-    "desc": "1.99 s 0-60 mph*",
-    "disc": "*with rollout subtracted"
+    "title": "Top Speed",
+    "desc": "155 mph"
   },
   {
     "id": "1",
-    "title": "Top Speed",
-    "desc": "200 mph*",
-    "disc": "*when equipped with paid hardware upgrades"
-  },
-  {
-    "id": "2",
     "title": "Drag Coefficient",
     "desc": "0.208 Cd"
   },
   {
+    "id": "2",
+    "title": "Weight",
+    "desc": "4,561 lbs"
+  },
+  {
     "id": "3",
     "title": "Powertrain",
-    "desc": "Tri Motor"
+    "desc": "Dual Motor"
   },
   {
     "id": "4",
