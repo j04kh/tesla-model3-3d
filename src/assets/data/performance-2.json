@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0",
+    "title": "Weight",
+    "desc": "4,065 lbs"
+  },
+  {
+    "id": "1",
+    "title": "Cargo",
+    "desc": "23 cu ft"
+  },
+  {
+    "id": "2",
+    "title": "Displays",
+    "desc": "15\" Center Touchscreen"
+  },
+  {
+    "id": "3",
+    "title": "Supercharging Max/ Payment Type",
+    "desc": "250 kW max; Pay Per Use"
+  },
+  {
+    "id": "4",
+    "title": "Onboard Charger Max",
+    "desc": "11.5 kW max (48A)"
+  },
+  {
+    "id": "5",
+    "title": "Warranty",
+    "desc": "Basic Vehicle - 4 years or 50,000 mi, whichever comes first Battery & Drive Unit - 8 years or 120,000 mi, whichever comes first"
+  }
+]

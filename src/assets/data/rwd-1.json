@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0",
+    "title": "Battery",
+    "desc": "Standard Range"
+  },
+  {
+    "id": "1",
+    "title": "Acceleration",
+    "desc": "5.8s 0-60 mph"
+  },
+  {
+    "id": "2",
+    "title": "Range",
+    "desc": "272 miles (EPA est.)"
+  },
+  {
+    "id": "3",
+    "title": "Drive",
+    "desc": "Rear-Wheel Drive"
+  },
+  {
+    "id": "4",
+    "title": "Seating",
+    "desc": "5 Adults"
+  },
+  {
+    "id": "5",
+    "title": "Wheels",
+    "desc": "18\" or 19\""
+  }
+]

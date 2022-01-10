@@ -1,0 +1,33 @@
+[
+  {
+    "id": "0",
+    "title": "Battery",
+    "desc": "Long Range"
+  },
+  {
+    "id": "1",
+    "title": "Acceleration",
+    "desc": "3.1s 0-60 mph*",
+    "disc": "*with rollout subtracted"
+  },
+  {
+    "id": "2",
+    "title": "Range",
+    "desc": "315 miles (EPA est.)"
+  },
+  {
+    "id": "3",
+    "title": "Drive",
+    "desc": "Dual Motor All-Wheel Drive"
+  },
+  {
+    "id": "4",
+    "title": "Seating",
+    "desc": "5 Adults"
+  },
+  {
+    "id": "5",
+    "title": "Wheels",
+    "desc": "20\""
+  }
+]

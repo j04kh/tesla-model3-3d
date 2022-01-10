@@ -1,6 +1,6 @@
 import { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
-import { Environment, OrbitControls } from "@react-three/drei";
+import { OrbitControls } from "@react-three/drei";
 import Logo from "./assets/teslaLogo.svg?component";
 import Specs from "./components/Specs";
 import Model from "./components/Model3/Model";
