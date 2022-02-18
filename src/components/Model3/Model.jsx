@@ -12,7 +12,7 @@ import { useFrame } from "@react-three/fiber";
 
 export default function Model({ ...props }) {
   const group = useRef();
-  const { nodes, materials } = useGLTF("/scene.gltf");
+  const { nodes, materials } = useGLTF("/scene-transformed.glb");
 
   useFrame(() => {
     group.current.rotation.y -= 0.005;
@@ -796,4 +796,4 @@ export default function Model({ ...props }) {
   );
 }
 
-useGLTF.preload("/scene.gltf");
+useGLTF.preload("/scene-transformed.glb");
