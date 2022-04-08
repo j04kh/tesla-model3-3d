@@ -9,8 +9,8 @@ function App() {
   const Model = lazy(() => import("./components/Model3/Model"));
 
   return (
-    <div className="h-full min-h-screen w-screen pt-2 px-6 overflow-x-hidden box-border bg-black text-white">
-      <Logo className="absolute" />
+    <div className="h-full min-h-screen w-screen flex items-center relative pt-2 px-6 overflow-x-hidden box-border bg-black text-white">
+      <Logo className="absolute left-5 top-2" />
       <div className="h-full w-full flex flex-col sm:flex-row">
         <div className="w-full min-h-[400px] h-1/2 mt-5 relative sm:pt-24 sm:h-[500px]">
           <div className="absolute w-full h-full">
